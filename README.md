@@ -1,3 +1,3 @@
 # jogo
-Felipe Gabriel 
+Felipe Gabriel <br>
 Gianluca Grassone
